@@ -137,3 +137,11 @@ input {
     width: 100px;
   }
 }
+
+.material-icons {
+  color: white;
+}
+
+.Photo {
+  border-radius: 5px;
+}
